@@ -1,1 +1,1 @@
-# 1st-project-Rock-paper-scissors
+project-Rock-paper-scissors
